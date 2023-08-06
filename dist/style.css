@@ -1,0 +1,8 @@
+.columns {
+  display: flex;
+  flex-direction: columns;
+}
+
+#result {
+  background: lightgray;
+}
